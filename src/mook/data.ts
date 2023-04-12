@@ -1,22 +1,22 @@
 export const dataCards = {
     users: {
         value: 25,
-        message: 'usuarios cadastrados',
+        message: 'usuarios',
         color: 'red',
     },
     products: {
         value: 60,
-        message: 'produtos cadastrados',
+        message: 'produtos',
         color: 'green',
     },
     services: {
         value: 10,
-        message: 'serviços cadastrados',
+        message: 'serviços',
         color: 'blue',
     },
     fruits: {
         value: 500,
-        message: 'frutas cadastrados',
+        message: 'frutas',
         color: 'yellow',
     },
 }
